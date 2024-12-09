@@ -1,1 +1,1 @@
-# ai
+# ai is cool
